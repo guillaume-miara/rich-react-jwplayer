@@ -1,0 +1,26 @@
+{
+  "name": "rich-react-player",
+  "version": "0.0.1",
+  "description": "A react component to create and manipulate a JW Player",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guillaume-miara/rich-react-jwplayer.git"
+  },
+  "keywords": [
+    "react",
+    "jwplayer",
+    "player",
+    "jw-player"
+  ],
+  "author": "guillaume miara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaume-miara/rich-react-jwplayer/issues"
+  },
+  "homepage": "https://github.com/guillaume-miara/rich-react-jwplayer#readme"
+}
